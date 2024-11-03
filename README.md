@@ -1,1 +1,1 @@
-# EE474AssignmentQ1
+# EE474Assignment
